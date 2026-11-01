@@ -1,0 +1,4 @@
+NEXT_PUBLIC_STREAM_API_KEY=replace_stream_key
+STREAM_API_KEY=replace_stream_key
+STREAM_API_SECRET=replace_stream_secret
+NEXT_PUBLIC_CALL_ID=sunny-meeting
